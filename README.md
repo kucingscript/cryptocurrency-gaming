@@ -1,4 +1,15 @@
-# React + Vite
+# Cryptocurrency Gaming Website
+
+Build with
+
+- [x] React
+- [x] styled-components
+
+## Preview
+
+![cryptos](./readme-img.png)
+
+## React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
